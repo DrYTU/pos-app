@@ -1,0 +1,11 @@
+.category-item{
+    @apply bg-green-700 px-6 py-10 text-white cursor-pointer hover:bg-pink-700 transition-all text-center min-w-[145px] flex items-center justify-center;
+}
+
+.custom-save-button{
+    color: #047857;
+}
+.custom-save-button:hover{
+    opacity: 70% !important;
+    color: #047857 !important;
+}
